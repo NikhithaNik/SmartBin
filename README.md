@@ -1,0 +1,2 @@
+# SmartBin
+Project for NGO
